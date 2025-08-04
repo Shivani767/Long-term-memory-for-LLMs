@@ -193,9 +193,19 @@ python -m pytest --cov=src tests/
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+
+## Screenshots 
+
+![](./1.jpeg)
+![](./2.png)
+![](./3.png)
+![](./4.png)
+
+
 ## Acknowledgements
 
 - OpenAI for providing the API that powers this project
 - Puter.js for providing free, serverless access to AI models
 - The FastAPI framework for the API implementation
+
 - spaCy and NLTK for natural language processing capabilities
